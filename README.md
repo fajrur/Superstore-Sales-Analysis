@@ -14,6 +14,7 @@ This project focus on 5 questions below:
 - Customers with highest number of purchase
 
 **Conclusion**
+
 After doing analysis and visualization, we can observe that:
 - Make interesting offers at the beginning of the year
 - Increase the promotion on Thursday
